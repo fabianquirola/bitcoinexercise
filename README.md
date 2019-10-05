@@ -1,0 +1,2 @@
+# bitcoinexercise
+React nextjs exercise 
